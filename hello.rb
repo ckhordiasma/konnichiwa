@@ -5,6 +5,7 @@ class HelloWorld
      puts "hola mundo"
      puts "konnichiwa!"
      puts "ni hao ma"
+     puts "hello mate"
    end
 
  end
