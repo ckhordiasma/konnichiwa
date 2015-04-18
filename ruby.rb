@@ -6,6 +6,7 @@ class HelloWorld
      puts "konnichiwa!"
      puts "ni hao ma"
      puts "hello mate"
+     puts "hello world from ruby"
    end
 
  end
